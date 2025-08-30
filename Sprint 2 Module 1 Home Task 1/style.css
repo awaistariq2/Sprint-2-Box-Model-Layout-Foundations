@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+ul{
+    list-style: none;
+    text-align: center;
+    margin-top: 20px;
+}
+li{
+    display: inline;
+    padding: 20px;
+    
+   
+
+}
+
+.header{
+    background-color: rgb(7, 7, 57);
+    color: aliceblue;
+    height: 100px;
+    width: 100%;
+    
+    
+}
+.cards{
+    display: flex;
+}
+
+img{
+    width: 300px;
+    height: 50;
+    border-radius: 4px;
+}
+span{
+    margin-top: 100px;
+    color: red;
+}
+.product{
+    margin-top: 10%;
+}
+.description{
+    margin-top: 20px;
+}
+.price{
+    margin-top: 100px;
+}
+
+.child
+{
+    margin-top: 10px;
+}
+
+.product1
+{
+    box-shadow: 0px  0px 10px black;
+    margin-left: 65px;
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
