@@ -1,0 +1,50 @@
+body{
+    background-color: beige;
+}
+ul{
+    list-style: none;
+     background-color: black;
+     padding-left: 0%;
+     height: 30px;
+     align-content: center;
+     
+     
+
+
+   
+}
+
+li{
+     display: inline;
+     color: aliceblue;
+     padding-right: 50px;
+     
+     
+    
+
+      
+}
+.container{
+    border: solid;
+    width: 600px;
+    margin: top 1px;
+    background-color: aliceblue;
+
+}
+.slide{
+    border: solid;
+    width: 300px;
+    margin-top: 10px;
+    background-color: white;
+}
+footer{
+    background-color: black;
+    color: aliceblue;
+    margin-top: 30px;
+    justify-content: center;
+    display: flex;
+    height: 40px;
+    padding-top: 20px;
+    
+
+}
