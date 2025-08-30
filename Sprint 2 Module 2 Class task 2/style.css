@@ -1,0 +1,88 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.header{
+    display: flex;
+    height: 60px;
+    justify-content: space-between;
+    background-color: rgb(4, 14, 51);
+    color: rgb(255, 255, 255);
+   align-items: center;
+   padding: 30px;
+
+    
+    
+}
+ul{
+    list-style: none;
+    display: flex;
+    gap: 50px;
+    
+
+}
+navbar{
+    display: flex;
+    justify-content: center;
+    
+}
+.body{
+    background-color: green;
+    height: 200PX;
+    align-items: center;
+    flex-direction: column;
+     display: flex;
+     justify-content: center;
+     padding: 30px;
+    
+}
+.bodybutton{
+    height: 30px;
+    background-color: red;
+    text-align: center;
+    color: aliceblue;
+    padding: 5px;
+    font-weight: bolder;
+}
+.body1{
+    background-color: gray;
+    height: 150px;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding: 2px;
+}
+.body1button{
+    height:50px;
+    width: 300px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    font-weight: 600;
+    background: white;
+    border: 0ch;
+}
+.body2{
+height: 130px;
+background-color: white;
+gap: 10px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.body2button{
+    background-color: green;
+    height: 50px;
+    width:200px;
+    border-radius: 10px;
+    border: 0ch;
+   
+}
+.footer{
+    height: 20px;
+    background-color: rgb(4, 14, 51);
+    text-align: center;
+    color: white;
+}
